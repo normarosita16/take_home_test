@@ -1,1 +1,1 @@
-# take_home_test
+# Smart Outdoor Event Planner with Weather Integration
